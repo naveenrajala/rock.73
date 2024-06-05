@@ -1,0 +1,8 @@
+shell mode:
+            *shell mode directly with the comment line in interface,and entering comment one by one
+           * the shell mode is the default mode of opearation for python idle 
+           
+script mode:
+           *script mode is defined set of step that neeed to folled order for the computer to understand
+           *script mode write the sequencde comment in a script fill 
+             

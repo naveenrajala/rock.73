@@ -1,0 +1,19 @@
+  
+          Jave                                                                                                             python
+                                                   
+                                                                                                       Python is an interpreted language          
+   Java is both compiled and interpreted language.
+                                                                                                                
+   Java is a strongly typed language. it doesn’t allow the                           Python is a dynamically typed language and doesn’t                                                                                                        
+                                    
+     compiler to change the data type of                                           require the developer to declare variables. It allows the
+                                   
+      they are type-caste                                                        nterpreter to detect and change the data type of the                                           
+
+                                                                                        variable, need not to declare the variable
+
+ More effort and time is needed for the developers to keep
+   the code readable in Java.                                                              Python keeps the code concise, clean and readable 
+
+
+                                                                                   
